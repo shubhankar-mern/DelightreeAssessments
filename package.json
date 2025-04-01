@@ -1,0 +1,11 @@
+{
+  "name": "delighttree",
+  "version": "1.0.0",
+  "description": "Sales and Revenue Analytics API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubhankar kumar singh",
+  "license": "ISC"
+}
