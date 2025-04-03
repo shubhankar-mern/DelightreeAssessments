@@ -21,7 +21,6 @@ A GraphQL API built with Node.js, MongoDB, and Redis for analyzing sales and rev
   - Date range filtering
 
 - **Additional Features**
-  - Redis caching for improved performance
   - Pagination support
   - Order creation mutation
   - Comprehensive error handling
