@@ -31,14 +31,12 @@ A GraphQL API built with Node.js, MongoDB, and Redis for analyzing sales and rev
 - Express
 - GraphQL
 - MongoDB
-- Redis (for caching)
 - Jest (for testing)
 
 ## Prerequisites
 
 - Node.js (v14 or higher)
 - MongoDB
-- Redis Server
 - npm or yarn
 
 ## Installation
