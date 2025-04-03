@@ -2,6 +2,12 @@
 
 A GraphQL API built with Node.js, MongoDB, and Redis for analyzing sales and revenue data. This API provides customer spending analytics, top-selling products, and sales analytics within specified date ranges.
 
+## Here is video walkthrough:
+
+ **Link**
+ - https://jam.dev/c/73d2020a-da7b-4b50-8432-5cda0cd30c19
+
+
 ## Features
 
 - **Customer Spending Analytics**
@@ -131,3 +137,4 @@ npm test
 ## to test open http://localhost:3000
 
 - add queries from queries.graphql and test
+

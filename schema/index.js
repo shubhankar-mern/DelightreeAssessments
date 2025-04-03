@@ -203,7 +203,7 @@ const rootResolver = {
             const result = await db.collection('orders').aggregate([
                 {
                     $match: {
-                        status: { $in: ['completed', 'pending'] }
+                        status: { $in: ['completed'] }
                     }
                 },
                 {
