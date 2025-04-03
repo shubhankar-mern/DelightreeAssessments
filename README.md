@@ -128,3 +128,6 @@ npm test
 
 
 
+## to test open http://localhost:3000
+
+- add queries from queries.graphql and test
